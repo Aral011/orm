@@ -1,0 +1,5 @@
+peewee
+psycopg2-binary
+
+
+
